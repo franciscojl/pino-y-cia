@@ -119,37 +119,46 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Reparación",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTÁCTAME</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#28324e"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "images/slide2.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 2",
+                "title": "Repuestos Maquinaria",
                 "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER STOCK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#28324e"
               },
               {
-                "image": "images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Slide 3",
-                "contentAlign": "center",
+                "title": "Felibles",
+                "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER STOCK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#28324e"
               }
             ]
           },
