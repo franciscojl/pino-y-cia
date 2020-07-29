@@ -29,7 +29,14 @@
 }
 #msg-box3-3 .mbr-header .mbr-header__text {
   text-align: center;
+  color: #e25041;
 }
 #msg-box3-3 .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#msg-box3-3 .mbr-article {
+  color: #28324e;
+}
+#contacts2-9 P {
+  color: #28324e;
 }
