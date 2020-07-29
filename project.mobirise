@@ -78,9 +78,10 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "index.html#header1-1",
+              "link": "#top",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "color": ""
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -95,14 +96,17 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "left",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/VJJsnRiMP34?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?time_continue=5&v=VJJsnRiMP34&feature=emb_title",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#ffffff",
