@@ -165,7 +165,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Felibles",
+                "title": "Flexibles",
                 "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">VER STOCK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a>",
