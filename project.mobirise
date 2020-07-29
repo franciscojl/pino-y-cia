@@ -10,7 +10,8 @@
         "#e6e6e6",
         "#6c6c6c",
         "#dedede",
-        "#828897"
+        "#828897",
+        "#fdfdfd"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -70,15 +71,16 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://franciscojl.github.io/pino-y-cia/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
+              "name": "photo",
               "family": "MobiriseIcons",
-              "link": "#top",
+              "link": "https://franciscojl.github.io/pino-y-cia/",
               "size": 0,
               "newWindow": false,
               "color": ""
