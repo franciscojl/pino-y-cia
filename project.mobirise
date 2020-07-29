@@ -44,7 +44,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#28324e"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>CONTACTO</a></li>",
           "_tags": [
             "Tema"
           ],
