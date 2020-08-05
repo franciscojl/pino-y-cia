@@ -21,7 +21,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/logo-pino-y-compaia-2020-04-128x167.png",
     "noImageResize": "",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png"
   },
@@ -48,7 +48,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#28324e"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>DESDE MÓVILES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+56 9 9435 1991\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>DESDE MÓVILES</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -119,7 +119,7 @@
           },
           "title": "REPARACIÓN Y MANTENCIÓN<br>DE MÁQUINAS INDUSTRIALES",
           "text": "Que la producción de tus proyectos no baje, manten tus máquinas al día.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">LLAMAR</a>",
           "_tags": [
             "Tema"
           ],
@@ -268,6 +268,81 @@
           "_anchor": "content5-2"
         },
         {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#28324e",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1276.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1276-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1276.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1276-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-960x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-960x1280-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-d"
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
@@ -326,7 +401,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACTO",
+          "title": "¿EN QUÉ PODEMOS AYUDARTE?",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {
             "action": "flopez.work@gmail.com",
@@ -374,12 +449,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3322.7464199753235!2d-70.640386685599!3d-33.61188338072796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d9cc3cc5bead%3A0x624cf05cee7a1dfe!2sLos%20Duraznos%2081%2C%20La%20Pintana%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses-419!2scl!4v1595980884213!5m2!1ses-419!2scl\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3322.73387910017!2d-70.63989858523068!3d-33.61220871321739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d9cc40a47785%3A0x96df5a50700254cc!2sLos%20Duraznos%20084%2C%20La%20Pintana%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses-419!2scl!4v1596665896412!5m2!1ses-419!2scl\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
               "placeId": "iframe",
               "state": "ok"
             }
           },
-          "text1": "<strong>DIRECCIÓN</strong><br>Los Duraznos 084<br>Santiago<br><br>\n<strong>CONTACTO</strong><br>\nEmail: support@mobirise.com<br>Teléfono: +569 9435 1991<br>",
+          "text1": "<strong>DIRECCIÓN</strong><br>Los Duraznos 084<br>La Pintana, Santiago<br><br>\n<strong>CONTACTO</strong><br>\nEmail: contacto@pinochile.cl<br>Teléfono: +569 9435 1991<br>",
           "text2": "*",
           "_tags": [
             "Tema"
