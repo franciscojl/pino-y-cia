@@ -20,6 +20,14 @@
 #header1-1 P {
   color: #efefef;
 }
+#header3-c H3 {
+  text-align: center;
+  color: #e25041;
+}
+#header3-c P {
+  text-align: center;
+  color: #333333;
+}
 #content5-2 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -42,5 +50,8 @@
   color: #28324e;
 }
 #contacts2-9 P {
+  color: #28324e;
+}
+#contacts2-9 DIV {
   color: #28324e;
 }

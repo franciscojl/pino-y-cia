@@ -12,7 +12,8 @@
         "#dedede",
         "#828897",
         "#fdfdfd",
-        "#00000d"
+        "#00000d",
+        "#333333"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -20,7 +21,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/logo-pino-y-compaia-2020-04-128x167.png",
     "noImageResize": "",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png"
   },
@@ -47,7 +48,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#28324e"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>CONTACTO</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>DESDE MÓVILES</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -65,7 +66,7 @@
               "color": "#28324e"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2\">NOSOTROS</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1\">INICIO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2\">NOSOTROS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-4\">CONTACTO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -117,8 +118,8 @@
             "overlayOpacity": "0.9"
           },
           "title": "REPARACIÓN Y MANTENCIÓN<br>DE MÁQUINAS INDUSTRIALES",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a>",
+          "text": "Brindamos calidad en el servicio de mantención <br>de máquinas industriales para que la producción <br>de tus proyectos y negocio no baje.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a>",
           "_tags": [
             "Tema"
           ],
@@ -133,6 +134,28 @@
             },
             "P": {
               "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "¡BIENVENIDO!",
+          "meta": "Somos Pino Y Compañía Limitada.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#e25041"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#333333"
             }
           }
         },
@@ -154,38 +177,38 @@
                 "showTitle": true,
                 "title": "Reparación",
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">CONTÁCTAME</a> ",
+                "text": "Una buena gestión del mantenimiento de sus máquinas es esencial para que la empresa mantenga la productividad y el funcionamiento normal. La negligencia en su plan de mantenimiento industrial puede tener un impacto muy serio en su departamento y la respetabilidad en su plan de producción, especialmente en los niveles ético, legal y económico.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:+56994351991\" data-toolbar=\"-mbrBtnMove\">CONTÁCTAME</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.8",
                 "overlayColor": "#28324e"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Repuestos Maquinaria",
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#slider-a\" data-toolbar=\"-mbrBtnMove\">VER STOCK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a>",
+                "text": "El suministro de un gran stock de repuestos a nuestros clientes es un factor relevante, ya que esto proporciona un valor adicional a las operaciones, por lo que hemos importado productos de la más alta calidad y personal calificado para satisfacer todas las necesidades de sus proyectos. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.6",
                 "overlayColor": "#28324e"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Flexibles",
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">VER STOCK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a>",
+                "text": "Creamos mangueras y flexibles industriales personalizados para que nuestros productos satisfaga todas sus necesidades, con calidad y eficiencia para cada máquina.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZAR</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.8",
                 "overlayColor": "#28324e"
               }
             ]
@@ -235,7 +258,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "NOSOTROS",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>Pino y Cía Limitada es una empresa con muchos años de experiencia en soluciones técnicas y consultoría con las que puede aumentar la seguridad y la productividad de sus procesos. También contamos con un grupo humano con excelente gestión y calidez con sus clientes que están capacitados para responder a cualquier duda.</p><p>Valoramos mejorar su productividad, reducir costos, lograr la máxima confiabilidad y disponibilidad de las instalaciones de producción, ya que sabemos que esto es vital para cada uno de nuestros clientes, independientemente del tipo o tamaño del proyecto.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Tema"
@@ -281,8 +304,8 @@
           },
           "title": "CREAMOS SOLUCIONES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#contacts2-9\" data-toolbar=\"-mbrBtnMove\">LLÁMANOS</a>",
+          "text": "<p>Reaccionamos a los enfoques de nuestros clientes y siempre entregamos un poco más de lo deseado. Un buen cuidado crea satisfacción y beneficios para todos. </p><p>Para lograr nuestros objetivos, trabajamos como un equipo en el que el respeto, la innovación, la motivación y la iniciativa son nuestros valores básicos.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:+56994351991\" data-toolbar=\"-mbrBtnMove\">LLÁMANOS</a>",
           "_tags": [
             "Tema"
           ],
@@ -298,7 +321,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e6e6e6",
+            "bgColor": "#c1c1c1",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -356,8 +379,8 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Los Duraznos 081<br>Santiago<br><br>\n<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-warning\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>DIRECCIÓN</strong><br>Los Duraznos 084<br>Santiago<br><br>\n<strong>CONTACTO</strong><br>\nEmail: support@mobirise.com<br>Teléfono: +569 9435 1991<br>",
+          "text2": "*",
           "_tags": [
             "Tema"
           ],
@@ -365,6 +388,9 @@
           "_anchor": "contacts2-9",
           "_styles": {
             "P": {
+              "color": "#28324e"
+            },
+            "DIV": {
               "color": "#28324e"
             }
           }
