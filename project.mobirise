@@ -11,7 +11,8 @@
         "#6c6c6c",
         "#dedede",
         "#828897",
-        "#fdfdfd"
+        "#fdfdfd",
+        "#00000d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -230,8 +231,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#00000d",
+            "overlayOpacity": "0.9"
           },
           "title": "NOSOTROS",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
