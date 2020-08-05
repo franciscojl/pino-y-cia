@@ -118,7 +118,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "REPARACIÓN Y MANTENCIÓN<br>DE MÁQUINAS INDUSTRIALES",
-          "text": "Brindamos calidad en el servicio de mantención <br>de máquinas industriales para que la producción <br>de tus proyectos y negocio no baje.",
+          "text": "Que la producción de tus proyectos y negocio no baje.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a>",
           "_tags": [
             "Tema"
