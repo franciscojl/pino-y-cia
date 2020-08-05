@@ -19,8 +19,9 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/logo-pino-y-compaia-2020-04-128x167.png",
     "noImageResize": "",
-    "uniqCompNum": 11,
-    "versionPublish": "4.10.2"
+    "uniqCompNum": 12,
+    "versionPublish": "4.10.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -99,7 +100,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -111,11 +112,11 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.9"
           },
-          "title": "VENTA DE FLEXIBLES",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "title": "REPARACIÓN Y MANTENCIÓN<br>DE MÁQUINAS INDUSTRIALES",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a>",
           "_tags": [
             "Tema"
@@ -124,10 +125,13 @@
           "_anchor": "header1-1",
           "_styles": {
             "H1": {
-              "color": "#e25041"
+              "color": "#eb6b56",
+              "font-size": "46px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             "P": {
-              "color": "#28324e"
+              "color": "#cccccc"
             }
           }
         },
