@@ -118,7 +118,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "REPARACIÓN Y MANTENCIÓN<br>DE MÁQUINAS INDUSTRIALES",
-          "text": "Que la producción de tus proyectos no baje, manten tus máquinas al día.",
+          "text": "Que la producción de tus proyectos no baje, mantén tus máquinas al día.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://api.whatsapp.com/send?phone=+56994351991\" data-toolbar=\"-mbrBtnMove\">CONTACTO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">COTIZA AQUÍ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"tel:+56 9 9435 1991\" data-toolbar=\"-mbrBtnMove\">LLAMAR</a>",
           "_tags": [
             "Tema"
@@ -404,7 +404,7 @@
           "title": "¿EN QUÉ PODEMOS AYUDARTE?",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {
-            "action": "flopez.work@gmail.com",
+            "action": "felix21@pinochile.com",
             "alerts": {
               "success": "Gracias por escribir, Nos pondremos en contacto a la brevedad!"
             },
@@ -444,7 +444,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#828897",
+            "bgColor": "#dedede",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -454,7 +454,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>DIRECCIÓN</strong><br>Los Duraznos 084<br>La Pintana, Santiago<br><br>\n<strong>CONTACTO</strong><br>\nEmail: contacto@pinochile.cl<br>Teléfono: +569 9435 1991<br>",
+          "text1": "<strong>DIRECCIÓN</strong><br>Los Duraznos 084<br>La Pintana, Santiago<br><br>\n<strong>CONTACTO</strong><br>\nEmail: <br>contacto@pinochile.com<br>felix21@pinochile.com&nbsp;<br><br>Teléfono: +569 9435 1991<br>",
           "text2": "*",
           "_tags": [
             "Tema"
