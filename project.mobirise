@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PINO Y CIA",
-    "currentPage": "index.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -23,14 +23,20 @@
     "noImageResize": "",
     "uniqCompNum": 14,
     "versionPublish": "4.10.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://www.pinochile.com/",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": "<script type=\"text/javascript\">\r\n    (function () {\r\n        var options = {\r\n            whatsapp: \"+56 9 9435 1991\", // WhatsApp number\r\n            call_to_action: \"Envianos un mensaje\", // Call to action\r\n            position: \"right\", // Position may be 'right' or 'left'\r\n        };\r\n        var proto = document.location.protocol, host = \"getbutton.io\", url = proto + \"//static.\" + host;\r\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\r\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\r\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\r\n    })();\r\n</script>",
+    "sitemapSwitcher": "on"
   },
   "pages": {
-    "index.html": {
+    "Index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Reparación, mantención de maquinaria indutrial y minera",
+        "meta_descr": "Mantén tus máquinas al día",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
